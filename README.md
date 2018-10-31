@@ -1,4 +1,4 @@
-# Flutter WebView Appp
+# Flutter WebView App
 
 A new Flutter application with Flutter Webview and simple web browser.
 
